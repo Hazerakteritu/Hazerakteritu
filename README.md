@@ -2,25 +2,16 @@
 
 # Hazera Akter Ritu
 
-
 **Final-year Software Engineering Student @ SUST • Competitive Programmer • Software Developer**
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-hazerakteritu%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hazerakteritu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazera_Akter_Ritu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazera-akter-ritu-4914bb2a6)
-[![GitHub](https://img.shields.io/badge/GitHub-Hazerakteritu-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hazerakteritu)
-[![Codeforces](https://img.shields.io/badge/Codeforces-twilight__-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/twilight_)
-[![VJudge](https://img.shields.io/badge/VJudge-Hazera__Ritu-4A90E2?style=flat)](https://vjudge.net/user/Hazera_Ritu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/hazera-akter-ritu-4914bb2a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hazerakteritu@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-twilight__-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/twilight_)
+[![VJudge](https://img.shields.io/badge/VJudge-Hazera__Ritu-3178C6?style=flat-square)](https://vjudge.net/user/Hazera_Ritu)
 
 </div>
-
----
-
-## About Me
-
-- B.Sc. in Software Engineering at **Shahjalal University of Science and Technology, Sylhet (SUST)**
-- Based in **Dhaka, Bangladesh**
 
 ---
 
@@ -90,7 +81,6 @@
   </tr> -->
 </table>
 
-
 ---
 
 ## GitHub Activity
@@ -101,10 +91,7 @@
 
 ---
 
+<p align="center">
+  <i>Currently seeking <b>Software Engineer</b> opportunities where I can bring strong problem-solving ability and engineering discipline to a production environment.</i>
+</p>
 
-## Current Focus
-
-* Enhancing problem-solving efficiency and increasing ratings on competitive programming platforms.
-* Building scalable backend microservices and modern web applications.
-* Exploring deep learning architectures and computer vision research.
-* Strengthening core foundations in software architecture and distributed systems.
