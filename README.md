@@ -20,7 +20,6 @@
 ## About Me
 
 - B.Sc. in Software Engineering at **Shahjalal University of Science and Technology, Sylhet (SUST)**
-- CGPA: **3.81 / 4.00** up to 6th Semester
 - Based in **Dhaka, Bangladesh**
 
 ---
@@ -94,15 +93,10 @@
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazerakteritu&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazerakteritu&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazerakteritu&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Hazerakteritu&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
